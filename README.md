@@ -48,12 +48,9 @@ This project analyzes bank loan data to uncover key insights related to loan per
 
 ## 📷 Dashboard Preview
 
-![Summary](screenshots/summary.png)
-
-![Overview](screenshots/overview.png)
-
-![Details](screenshots/details.png)
-
+![Summary](screenshots/Summary.png)
+![Overview](screenshots/Overview.png)
+![Details](screenshots/Details.png)
 ---
 
 ## 🧠 Domain Knowledge
